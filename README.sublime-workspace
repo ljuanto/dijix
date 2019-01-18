@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 385.0,
+		"history":
+		[
+			"286f d06c 50bb a2c8 d82e 70d6 ea83 86db\n6aba 8ef1 6fe0 046c ac6a 77b0 4a96 59d5\nd766 1632 bcbb f60a 5e84 7f25 4211 bde8\n3138 31e0 46c7 aa54 083b db4e 6f47 bc46\n551a 9b96 350e 5e4a 5076 a14a b30e fcf9\nbce7 9653 b66e 404c ebb5 ce31 055e dae2\n241a 0f92 1090 5044 39ea 0669 7cfb ffd1\n9129 b0d2 495d ebe7 26dc ac60 ec7a cf41\na321 9635 b67c 15ee 1e69 7512 62e6 efb5\n8c18 1443 6f46 e933 efcb f706 5125 0cb3\n2727 aca9 bc13 3f92 d1eb c16c 6b6c 1ce9\n8f03 ab84 61c4 9e2f 035e a942 6c1d 42e3\nedde ac31 dbeb adf5 1a7d 6880 18a3 8f74\n2a81 26db fa39 05e2 f394 f438 d221 0164\n4158 9e13 b3ae 4733 0e79 8150 99e7 83ec\n6e55 b1ac 448a fcec e046 c51e d591 a181\n8936 cd4c 4661 20fd 6796 3e19 ce94 6eb5\nd975 1fb4 2162 8a97 c537 5d0b 35c1 c4a6\n3fd2 307e 457b 4222 6502 9f39 53e6 91b6\n6444 fac2 c7f7 ea50 30f1 5cfc 8960 97f8\nf2b3 7687 dd26 d9bf db28 b640 4d61 b4e8\na93b 5b9f 6c0e 7be0 a8a0 9e1a 8a84 ac76\n77aa 38f9 30e2 7bf3 4ab3 9e92 568c 4d3e\n80fb 0d8b 45e1 b175 56b9 1eee 50d4 139d\nb65c daff 0dc7 9d9b 6ee5 12ea 5e0a ece2\ndfe9 026d 78c2 bcdc 5532 3650 1edc f894\n2da6 f768 2988 4576 e027 dae6 ec67 a778\n961b 8972 6079 6820 a78d b35f f1f9 5c1b\n696c 0c4c 2e00 067f 9ef6 afc4 3188 32fd\n7437 cb78 4bc8 0a0d 9d0a e225 270b b10c\nbd7a 98f0 79e2 6b0e 135d d6b5 82b9 57a7\nbc90 ce3a 36e7 16fd 4f9b 9ba4 8994 16f1\n51cc 23e5 953e 2826 0dc6 917c cf32 d27f\nb910 43cb cd73 ab81 1e8b 8b5e a72b 84f6\n584b 1cae 9518 585b 88b2 8134 5b53 7e50\nef8e 8a09 ed81 1a7b 6961 82f1 b70f a8c4\n117c a479 5c61 cbd1 55d0 4d10 381a 8e0a\na830 0cc7 e6e8 8024 4dbe 2cb3 251f c670\neeab fb33 bd26 6a67 0c8f c1d6 6462 094c\nb871 53b8 ab52 5614 09c9 157c 50e5 8f58\n3ed8 7c77 e994 36d4 fa7f e52e ae49 0bd9\n4a5b 7809 2253 0bdc 0798 85e0 47fa f312\n1017 e982 8f3c 5665 122a 934b 5801 899b\n66bf 2bad d52e 6a62 24b2 a856 2203 2025\nbbc6 951a 9c38 34a6 ca2e f824 7130 ebbc\nd442 4bbd e57e f757 f91e 50c9 a5e6 a0bb\n2ab6 a28e 4c10 d758 ba96 b3e5 bff1 16f4\ncc92 2d6d f62f 8c1b a420 a43c cd78 b80d\nfff0 9151 adf0 c9aa 4147 51d5 593f 7281\n5901 8916 3dad 2359 8101 7ce8 2af2 705c\n59c2 fa31 7d74 baa1 deb2 3863 29c7 9099\n2e99 4547 d3cf f135 b5a2 7af1 9fa6 2032\n8b47 ec3b bdd5 9e3d c18d 59c3 b175 5c28\n53f6 2f4c 90e4 f982 cbdf f86a 9db1 216d\nfe4e ba73 e106 e167 2b35 3f40 96f4 3b65\n34ef 42cc 564a 5874 d986 8974 7288 8830\necf6 cc26 565e 2a68 8d06 4810 de73 af51\n884f 97d8 04ec 9c7d ba98 60a4 70cb 2ad6\nb88c 7b00 868f 59da 0e20 53d2 2da2 45b1\nfd68 d9f3 0180 7ce3 f756 c752 0cdd 2e7d\n755e a605 910d 9054 2f34 480a e6c7 a723\n4dd4 eb17 81c1 6213 548e d798 e72c 59d2\n61e9 c7b6 3534 e629 427a 6918 5f56 a649\n2c17 10f4 ab3a db28 91ba 1ed6 3cb4 2849\n3037 a3ac 2412 6bd0 88d2 3244 09f6 785f\ne73c e1c6 f3a0 f62f 8ce6 ae3d f24e 3039\ncff0 b770 972e 7dba 61f7 9cd3 d18b 2786\ncbee 39d3 2304 8a9a 98ef c2d5 7fcd e353\n52c2 b7e5 2411 f6d9 5d57 0967 d7be b9b4\ncc0e 0904 78e5 efb7 8b33 d69c 9f0e cf11\n9d21 8e8f 43be 67e2 4b85 c0"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/juant/OneDrive/Documentos/GitHub/dijix/package.json",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/dijix/package-lock.json",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/wallet/README.md",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/dijix/dist/index.js",
+		"/D/Temp/TxGameDownload/Component/UI/650B9C6B263AFDCB505881F103827466/Setup/ui.dat",
+		"/E/System Volume Information/WPSettings.dat",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/dijix/src/index.js",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/dijix/README.md",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa17228.17744/DRV_Audio_RTK_SZ_RTK_W10_64_VER6018573_20190412R.zip.dat",
+		"/D/ASUS/SCD/Download/SW_Norton_Security_W10_64_VER221614_20181113R.zip.dat",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa17228.16197/SW_Norton_Security_W10_64_VER221614_20181113R.zip.dat",
+		"/C/Users/juant/Downloads/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2)~/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2).rar",
+		"/C/Users/juant/Downloads/cyberghostvpn-token.txt",
+		"/C/Users/juant/Downloads/app_sizes.txt",
+		"/C/Users/juant/Downloads/poweredby.zip",
+		"/C/Users/juant/Downloads/crust-sworker-0.5.1/crust-sworker-0.5.1/Makefile",
+		"/C/Users/juant/Downloads/crust-wallet-2.0.3/chrome/js/mainapp.bundle.rar",
+		"/C/Users/juant/Downloads/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2)~/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2)",
+		"/C/Users/juant/Downloads/B365OEM1.03",
+		"/C/Users/juant/Downloads/zip-arm",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa5808.36636/zip-arm",
+		"/F/md5sum.txt",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa23616.1276/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2)",
+		"/C/Users/juant/Downloads/app_densities.txt",
+		"/C/Users/juant/Downloads/crust-sworker-0.5.1.tar.gz",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa14512.7477/tzdb.dat",
+		"/C/Users/juant/Downloads/bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu7~20.04.3_amd64.deb",
+		"/C/Users/juant/Downloads/Wall Base/Wall Base.bak",
+		"/C/Users/juant/OneDrive/Documentos/RtlExtUI.dll",
+		"/C/Users/juant/Downloads/Dharma.vcf",
+		"/C/Program Files/Google/Chrome/Application/master_preferences",
+		"/C/Temp/TxGameDownload/Component/AppMarket/ef2ec7f93db6f299fb128fd2ca0de1d3/Setup/aowgameex2.dat",
+		"/C/Users/juant/OneDrive/Documentos/KONAMI/AZ Patch edicion 21-22/settings.dat",
+		"/C/Users/juant/OneDrive/Documentos/GitHub/wallet/.gitattributes",
+		"/C/Users/juant/OneDrive/Escritorio/rebuilt.StrgMDL2/StrgMDL2.ttf",
+		"/C/Users/juant/Downloads/Video de Ivan",
+		"/C/Users/juant/AppData/Roaming/Sublime Text/Packages/User/JSON.sublime-settings",
+		"/C/Windows/vgkbootstatus.dat",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa22268.16723/gapps-remove.txt",
+		"/C/Temp/TxGameDownload/MobileGamePCShared/hardware_info.txt",
+		"/C/Users/juant/Downloads/game/icudtl.dat",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa10196.48034/app_densities.txt",
+		"/C/Users/juant/AppData/Local/Temp/Rar$DIa10196.49924/app_sizes.txt",
+		"/C/Users/juant/OneDrive/Documentos/KONAMI/AZ Patch edicion 21-22/save/folder1/KONAMI-WIN32PES6OPT",
+		"/C/Program Files/PCHealthCheck/OSSNotice.txt",
+		"/C/Users/juant/Downloads/Documento (1).docx",
+		"/G/Mi unidad/archive_browser (1).tex",
+		"/G/Mi unidad/archive_browser.tex",
+		"/C/Users/juant/Downloads/Libro 2.xlsx",
+		"/C/Users/juant/Downloads/archive_browser.tex",
+		"/C/Users/juant/Downloads/Documento sin título.docx"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
