@@ -7,6 +7,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/juant/Downloads/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2) (1).txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\"activeAccounts\":[{\"address\":\"0xA7db8f025B855776B53b1556Fed30813F7c60DC1\",\"coin\":60,\"derivationPath\":\"m/44'/60'/0'/0/0\",\"publicKey\":\"0464a8b86ea5ea2316d0e1ae38cd4840475dc739eff19dd659a4c738b18f6ff126aa9441d93d1bef4884316b4e843cea22035fe2a466f9cc86c186f5c89c39d989\"}],\"crypto\":{\"cipher\":\"aes-128-ctr\",\"cipherparams\":{\"iv\":\"0772c3bcbe8f07975cb4a90f4b32bb58\"},\"ciphertext\":\"d673a05048bf93dae90203fa7f7a492987daa8d279a88dae84930a678e1142145661a1a402cedfd781faa4331b9c9a553ac3853f9176bb59c3e70500fff71796acb075dc93\",\"kdf\":\"scrypt\",\"kdfparams\":{\"dklen\":32,\"n\":16384,\"p\":4,\"r\":8,\"salt\":\"\"},\"mac\":\"18865a941652572777df8b36029046ea9b26a32edf2cb50ea8a0d48318324d6c\"},\"id\":\"a25af2b3-e72d-4454-84a7-5065205d1c24\",\"name\":\"\",\"type\":\"mnemonic\",\"version\":3}",
+			"file": "/G/Mi unidad/TrustWalletBackup/Billetera principal 20",
+			"file_size": 742,
+			"file_write_time": 133575737791520000,
+			"settings":
+			{
+				"buffer_size": 742,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOYCAAAAAAAA5wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gIAAAAAAADmAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOYCAAAAAAAA5gIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5wIAAAAAAADnAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -130,6 +170,65 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/juant/Downloads/lxRFlgawbOPbN10hBZGAth+ZNEm4meICquM2cYjob7Q= (2) (2) (1).txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/G/Mi unidad/TrustWalletBackup/Billetera principal 20",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 5311.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
